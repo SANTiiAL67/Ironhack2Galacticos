@@ -1,4 +1,5 @@
 # Ironhack2Galacticos
+El LInk al repostirio es: https://www.loom.com/share/ddef5184e015478996579984a5e23c89
 Puedes elegir entre dos ejercicios, yo me he decantado por el primero:
 1) Un proyecto de manipulación DOM. Si elige este enfoque, la página web debe:
 Tener un mínimo de 2 páginas HTML.
